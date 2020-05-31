@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj": {}
+    "C:\\practice3\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj": {}
   },
   "projects": {
-    "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj": {
+    "C:\\practice3\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj",
+        "projectUniqueName": "C:\\practice3\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj",
         "projectName": "ParkWifi.GeneralLogic.Tests",
-        "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj",
+        "projectPath": "C:\\practice3\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj",
         "packagesPath": "C:\\Users\\mos_k\\.nuget\\packages\\",
-        "outputPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic.Tests\\obj\\",
+        "outputPath": "C:\\practice3\\ParkWifi.GeneralLogic.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.WebService\\ParkWifi.WebService.csproj": {
-                "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.WebService\\ParkWifi.WebService.csproj"
+              "C:\\practice3\\ParkWifi.WebService\\ParkWifi.WebService.csproj": {
+                "projectPath": "C:\\practice3\\ParkWifi.WebService\\ParkWifi.WebService.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
+    "C:\\practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
+        "projectUniqueName": "C:\\practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
         "projectName": "ParkWifi.GeneralLogic",
-        "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
+        "projectPath": "C:\\practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
         "packagesPath": "C:\\Users\\mos_k\\.nuget\\packages\\",
-        "outputPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\obj\\",
+        "outputPath": "C:\\practice3\\ParkWifi.GeneralLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.WebService\\ParkWifi.WebService.csproj": {
+    "C:\\practice3\\ParkWifi.WebService\\ParkWifi.WebService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.WebService\\ParkWifi.WebService.csproj",
+        "projectUniqueName": "C:\\practice3\\ParkWifi.WebService\\ParkWifi.WebService.csproj",
         "projectName": "ParkWifi.WebService",
-        "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.WebService\\ParkWifi.WebService.csproj",
+        "projectPath": "C:\\practice3\\ParkWifi.WebService\\ParkWifi.WebService.csproj",
         "packagesPath": "C:\\Users\\mos_k\\.nuget\\packages\\",
-        "outputPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.WebService\\obj\\",
+        "outputPath": "C:\\practice3\\ParkWifi.WebService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -168,8 +168,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
-                "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj"
+              "C:\\practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
+                "projectPath": "C:\\practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj"
               }
             }
           }

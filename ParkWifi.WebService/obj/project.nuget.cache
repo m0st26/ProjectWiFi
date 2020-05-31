@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "duoNLrzO73BNq7yi88hi2K+IPFaghXSSgDdhK3kxRTxPaoS7Vt5ysNecgPT5Hc55IgSWIoXjs2XgwtJeIInq5Q==",
+  "dgSpecHash": "cfPNWq/O1oBWC/d5MvYpA60pEIrZfDTEaBsvH8w92Ka4CktkB/oN0UWF04SvaM4uQtpTnudqms5ql3uZInYVFA==",
   "success": true,
-  "projectFilePath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.WebService\\ParkWifi.WebService.csproj",
+  "projectFilePath": "C:\\practice3\\ParkWifi.WebService\\ParkWifi.WebService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mos_k\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\mos_k\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
+      "projectUniqueName": "C:\\practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
       "projectName": "ParkWifi.GeneralLogic",
-      "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
+      "projectPath": "C:\\practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
       "packagesPath": "C:\\Users\\mos_k\\.nuget\\packages\\",
-      "outputPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\obj\\",
+      "outputPath": "C:\\practice3\\ParkWifi.GeneralLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

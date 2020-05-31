@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WE0tDyWFy0MhchhmaT47YB+zgXiM9XWgkeJA8gjbV0brl6E4Or8ClKWSQ0HJJz/rJUtDPdu02L14KhypKW6gtw==",
+  "dgSpecHash": "oIUHj8kpWQws7cM1lABTNBbKd0eX1KM19+EkVE52Ff6HzHxiRF8WyHC1r5fYYmXAvKY0GmKTRdqLEaYm2VKuHw==",
   "success": true,
-  "projectFilePath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj",
+  "projectFilePath": "C:\\practice3\\ParkWifi.GeneralLogic.Tests\\ParkWifi.GeneralLogic.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mos_k\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\mos_k\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",

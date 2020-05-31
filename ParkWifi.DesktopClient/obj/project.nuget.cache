@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "COz7QOuQQaJR5aNpM5FozgAvtkIzYb8UoIrWLGhPWqxI2SK6SZwR6ioH7CDeiNuDNUZi7lB0668CqfZMY8FqCA==",
+  "dgSpecHash": "wlfsMthRfkOKpq0GsvV7gssMBm5bnooc6S8DhltfHACG3/6U9Uos8M5BTlYKwOEpPKc+1+hkDjId9JVLl3HkJA==",
   "success": true,
-  "projectFilePath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj",
+  "projectFilePath": "C:\\practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mos_k\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
     "C:\\Users\\mos_k\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
