@@ -16,30 +16,30 @@ namespace ParkWifi.InfrastructureServices.Gateways.Database
         public ParkWifiEFSqliteGateway(ParkWifiContext ParkWifiContext)
             => _parkwifiContext = ParkWifiContext;
 
-        public async Task<parkwifi> GetParkWifi(long id)
-           => await _parkwifiContext.ParkWifis.Where(b => b.Id == id).FirstOrDefaultAsync();
+        public async Task<DomainObjects.parkwifi> GetParkWifi(long id)
+           => await _parkwifiContext.ParkWifi.Where(b => b.Id == id).FirstOrDefaultAsync();
 
-        public async Task<IEnumerable<parkwifi>> GetAllParkWifis()
-            => await _parkwifiContext.ParkWifis.ToListAsync();
+        public async Task<IEnumerable<DomainObjects.parkwifi>> GetAllParkWifis()
+            => await _parkwifiContext.ParkWifi.ToListAsync();
           
-        public async Task<IEnumerable<parkwifi>> QueryParkWifis(Expression<Func<parkwifi, bool>> filter)
-            => await _parkwifiContext.ParkWifis.Where(filter).ToListAsync();
+        public async Task<IEnumerable<DomainObjects.parkwifi>> QueryParkWifis(Expression<Func<DomainObjects.parkwifi, bool>> filter)
+            => await _parkwifiContext.ParkWifi.Where(filter).ToListAsync();
 
-        public async Task AddParkWifi(parkwifi parkwifi)
+        public async Task AddParkWifi(DomainObjects.parkwifi parkwifi)
         {
-            _parkwifiContext.ParkWifis.Add(parkwifi);
+            _parkwifiContext.ParkWifi.Add(parkwifi);
             await _parkwifiContext.SaveChangesAsync();
         }
 
-        public async Task UpdateParkWifi(parkwifi parkwifi)
+        public async Task UpdateParkWifi(DomainObjects.parkwifi parkwifi)
         {
             _parkwifiContext.Entry(parkwifi).State = EntityState.Modified;
             await _parkwifiContext.SaveChangesAsync();
         }
 
-        public async Task RemoveParkWifi(parkwifi parkwifi)
+        public async Task RemoveParkWifi(DomainObjects.parkwifi parkwifi)
         {
-            _parkwifiContext.ParkWifis.Remove(parkwifi);
+            _parkwifiContext.ParkWifi.Remove(parkwifi);
             await _parkwifiContext.SaveChangesAsync();
         }
 

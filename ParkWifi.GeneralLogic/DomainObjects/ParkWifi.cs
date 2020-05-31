@@ -7,7 +7,7 @@ namespace ParkWifi.DomainObjects
   public class parkwifi : DomainObject
     {
 
-        public string status { get; set; }
+        public string FunctionFlag { get; set; }
 
         public string Name { get; set; }
 

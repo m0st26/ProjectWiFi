@@ -16,22 +16,22 @@ namespace ParkWifi.ApplicationServices.Repositories
         public DbParkWifiRepository(IParkWifiDatabaseGateway databaseGateway)
             => _databaseGateway = databaseGateway;
 
-        public async Task<parkwifi> GetParkWifi(long id)
+        public async Task<DomainObjects.parkwifi> GetParkWifi(long id)
             => await _databaseGateway.GetParkWifi(id);
 
-        public async Task<IEnumerable<parkwifi>> GetAllParkWifis()
+        public async Task<IEnumerable<DomainObjects.parkwifi>> GetAllParkWifis()
             => await _databaseGateway.GetAllParkWifis();
 
-        public async Task<IEnumerable<parkwifi>> QueryParkWifis(ICriteria<parkwifi> criteria)
+        public async Task<IEnumerable<DomainObjects.parkwifi>> QueryParkWifis(ICriteria<DomainObjects.parkwifi> criteria)
             => await _databaseGateway.QueryParkWifis(criteria.Filter);
 
-        public async Task AddParkWifi(parkwifi parkwifi)
+        public async Task AddParkWifi(DomainObjects.parkwifi parkwifi)
             => await _databaseGateway.AddParkWifi(parkwifi);
 
-        public async Task RemoveParkWifi(parkwifi parkwifi)
+        public async Task RemoveParkWifi(DomainObjects.parkwifi parkwifi)
             => await _databaseGateway.RemoveParkWifi(parkwifi);
 
-        public async Task UpdateParkWifi(parkwifi parkwifi)
+        public async Task UpdateParkWifi(DomainObjects.parkwifi parkwifi)
             => await _databaseGateway.UpdateParkWifi(parkwifi);
     }
 }

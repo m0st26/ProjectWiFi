@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj": {}
+    "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj": {}
   },
   "projects": {
-    "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj": {
+    "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj",
+        "projectUniqueName": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj",
         "projectName": "ParkWifi.DesktopClient",
-        "projectPath": "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj",
+        "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.DesktopClient\\ParkWifi.DesktopClient.csproj",
         "packagesPath": "C:\\Users\\mos_k\\.nuget\\packages\\",
-        "outputPath": "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.DesktopClient\\obj\\",
+        "outputPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.DesktopClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
-                "projectPath": "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj"
+              "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
+                "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
+    "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
+        "projectUniqueName": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
         "projectName": "ParkWifi.GeneralLogic",
-        "projectPath": "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
+        "projectPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\ParkWifi.GeneralLogic.csproj",
         "packagesPath": "C:\\Users\\mos_k\\.nuget\\packages\\",
-        "outputPath": "C:\\полиночка_жена_андрея\\РАБОЧИЙ\\bridges-practice3\\ParkWifi.GeneralLogic\\obj\\",
+        "outputPath": "C:\\полиночка_жена_андрея\\lab7 - Copy\\ParkWifi.GeneralLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
