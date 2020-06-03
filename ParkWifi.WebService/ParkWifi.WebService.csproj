@@ -24,8 +24,4 @@
 <ProjectReference Include="..\ParkWifi.GeneralLogic\ParkWifi.GeneralLogic.csproj" />
 </ItemGroup>
 
-<ItemGroup>
-  <Folder Include="update_database\" />
-</ItemGroup>
-
 </Project>

@@ -30,9 +30,8 @@
         <StackPanel Grid.Column="1" DataContext="{Binding CurrentParkWifi}" Margin="0,0,0,0">
             <TextBlock Padding="3" FontWeight="ExtraBold" Text="Информация о WiFi сети" HorizontalAlignment="Center"/>
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=Name: {0}, Path=Name }"/>
-            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=Id: {0}, Path=Id }"/>
+            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=Status: {0}, Path=status}" />
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=ParkName: {0}, Path=ParkName}" />
-            <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=FunctionFlag: {0}, Path=FunctionFlag}" />
             <TextBlock Padding="2" TextWrapping="Wrap" Text="{Binding StringFormat=wifiName: {0}, Path=wifiName}" />
         </StackPanel>
     </Grid>

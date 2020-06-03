@@ -16,11 +16,11 @@ namespace ParkWifi.WebService.Core.Tests
     {
         private InMemoryParkWifiRepository CreateParkWifiRepository()
         {
-            var repo = new InMemoryParkWifiRepository(new List<DomainObjects.parkwifi> {
-                new DomainObjects.parkwifi { Id = 1, ParkName = "Государственное автономное учреждение культуры города Москвы «Государственный историко-архитектурный и природно-ландшафтный музей-заповедник Кузьминки-Люблино, Парк Кузбминки", Name = "Точка доступа №337"},
-                new DomainObjects.parkwifi { Id = 2, ParkName = "Государственное автономное учреждение культуры города Москвы «Государственный историко-архитектурный и природно-ландшафтный музей-заповедник Кузьминки-Люблино, Парк Кузбминки", Name = "Точка доступа №338"},
-                new DomainObjects.parkwifi { Id = 3, ParkName = "Государственное автономное учреждение культуры города Москвы «Государственный историко-архитектурный и природно-ландшафтный музей-заповедник Кузьминки-Люблино, Парк Кузбминки", Name = "Точка доступа №339"},
-                new DomainObjects.parkwifi { Id = 4, ParkName = "Государственное автономное учреждение культуры города Москвы «Государственный историко-архитектурный и природно-ландшафтный музей-заповедник Кузьминки-Люблино, Парк Кузбминки", Name = "Точка доступа №340"},
+            var repo = new InMemoryParkWifiRepository(new List<parkwifi> {
+                new parkwifi { Id = 1, ParkName = "Государственное автономное учреждение культуры города Москвы «Государственный историко-архитектурный и природно-ландшафтный музей-заповедник Кузьминки-Люблино, Парк Кузбминки", Name = "Точка доступа №337"},
+                new parkwifi { Id = 2, ParkName = "Государственное автономное учреждение культуры города Москвы «Государственный историко-архитектурный и природно-ландшафтный музей-заповедник Кузьминки-Люблино, Парк Кузбминки", Name = "Точка доступа №338"},
+                new parkwifi { Id = 3, ParkName = "Государственное автономное учреждение культуры города Москвы «Государственный историко-архитектурный и природно-ландшафтный музей-заповедник Кузьминки-Люблино, Парк Кузбминки", Name = "Точка доступа №339"},
+                new parkwifi { Id = 4, ParkName = "Государственное автономное учреждение культуры города Москвы «Государственный историко-архитектурный и природно-ландшафтный музей-заповедник Кузьминки-Люблино, Парк Кузбминки", Name = "Точка доступа №340"},
             });
             return repo;
         }
@@ -69,7 +69,7 @@ namespace ParkWifi.WebService.Core.Tests
 
     class OutputPort : IOutputPort<GetParkWifiListUseCaseResponse>
     {
-        public IEnumerable<DomainObjects.parkwifi> ParkWifis { get; private set; }
+        public IEnumerable<parkwifi> ParkWifis { get; private set; }
 
         public void Handle(GetParkWifiListUseCaseResponse response)
         {
